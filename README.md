@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB,NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-tau-six-73.vercel.app/](https://my-portfolio-tau-six-73.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://itsnsnishantt.github.io/My-Portfolio/)
 
 - 💬 Ask me about **JAVA, Python, SQL**
 
